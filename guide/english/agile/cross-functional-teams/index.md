@@ -40,3 +40,6 @@ One common challenge of composing Cross Functional Teams is the thought that eve
 * [Cross Functional Doesn’t Mean Everyone Can Do Everything](https://www.mountaingoatsoftware.com/blog/cross-functional-doesnt-mean-everyone-can-do-everything)
 
 * [Cross functional teams](https://dzone.com/articles/cross-functional-scrum-teams)
+
+
+https://medium.com/@d.salnikov23/cross-functional-teams-and-self-organization-in-the-heart-of-agile-part-2-7b2c6846d3bf
