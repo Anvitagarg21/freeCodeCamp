@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=_3VIC8u1UV8
 
 ### More Information:
 Stand-up meeting: <a href="https://en.wikipedia.org/wiki/Stand-up_meeting" target='_blank' rel='nofollow'>Wikipedia</a>
+
+What is scrum and its best practices
+https://www.scrum-institute.org/Daily_Scrum_Meeting.php
+https://sprint.ly/blog/scrum-meeting-best-practices/
